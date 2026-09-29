@@ -89,6 +89,7 @@ class EquipmentDetailFragment : Fragment(R.layout.fragment_equipment_detail) {
             )
         }
 
+
         binding.btnBackDetail.setOnClickListener {
             findNavController().popBackStack()
         }

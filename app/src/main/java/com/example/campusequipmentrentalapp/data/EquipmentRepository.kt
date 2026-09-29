@@ -86,7 +86,7 @@ object EquipmentRepository {
             maxRentalDays = 2,
             location = "학과 사무실",
             description = "소규모 행사와 프로젝트 시연에 사용할 수 있는 Bluetooth 스피커입니다."
-        )
+        ),
 
 
 
